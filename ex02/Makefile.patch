@@ -1,0 +1,22 @@
+--- Makefile	2018-09-03 21:35:32.267941108 +0200
++++ Makefile.new	2018-09-03 21:49:18.548879267 +0200
+@@ -2,7 +2,7 @@
+ VERSION = 4
+ PATCHLEVEL = 18
+ SUBLEVEL = 0
+-EXTRAVERSION = -rc8
++EXTRAVERSION = -thor_kernel
+ NAME = Merciless Moray
+ 
+ # *DOCUMENTATION*
+--- Makefile	2018-09-03 21:35:32.267941108 +0200
++++ Makefile.new	2018-09-03 21:49:18.548879267 +0200
+@@ -2,7 +2,7 @@
+ VERSION = 4
+ PATCHLEVEL = 18
+ SUBLEVEL = 0
+-EXTRAVERSION = -rc8
++EXTRAVERSION = -thor_kernel
+ NAME = Merciless Moray
+ 
+ # *DOCUMENTATION*
